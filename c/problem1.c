@@ -2,7 +2,6 @@
 #define MAX_NUM 1000
 
 int main(void) {
-  int num = 0;
   int i;
 
   int sum = 0;
